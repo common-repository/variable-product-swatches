@@ -1,0 +1,58 @@
+{
+    "packages": [
+        {
+            "name": "zqelab/wp-settings-api",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zqelab/wp-settings-api.git",
+                "reference": "7c39571796b7a1ec190a81d0dfce4c5da868031e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zqelab/wp-settings-api/zipball/7c39571796b7a1ec190a81d0dfce4c5da868031e",
+                "reference": "7c39571796b7a1ec190a81d0dfce4c5da868031e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "time": "2021-11-09T19:37:48+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "ZQE",
+                    "email": "dev@zqe.io",
+                    "homepage": "https://zqe.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "WordPress settings api Class to make option page",
+            "homepage": "https://github.com/zqelab/wp-settings-api",
+            "keywords": [
+                "settings-api",
+                "wordpress",
+                "wp"
+            ],
+            "support": {
+                "issues": "https://github.com/zqelab/wp-settings-api/issues",
+                "source": "https://github.com/zqelab/wp-settings-api/tree/main"
+            },
+            "install-path": "../zqelab/wp-settings-api"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
